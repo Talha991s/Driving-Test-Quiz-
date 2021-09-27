@@ -10,7 +10,7 @@ public class QuizManager : MonoBehaviour
     public List<QnAScript> QnA;
     public GameObject[] options;
     public int currentQuestion;
-    // public Image QuestionImage; //image
+
     // public Texture Questiontexture;
 
     public SpriteRenderer spriteRenderer;
